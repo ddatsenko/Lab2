@@ -1,0 +1,7 @@
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\bin\Debug\Lab2_Task1.2.exe.config
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\bin\Debug\Lab2_Task1.2.exe
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\bin\Debug\Lab2_Task1.2.pdb
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\obj\Debug\Lab2_Task1.2.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\obj\Debug\Lab2_Task1.2.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\obj\Debug\Lab2_Task1.2.exe
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab2_Task1.2\obj\Debug\Lab2_Task1.2.pdb
